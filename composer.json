@@ -23,13 +23,13 @@
   ],
   "require": {
     "php": ">=5.4.4",
-    "oro/crm": "1.8.*",
-    "diamante/desk-bundle": "self.version",
-    "diamante/user-bundle": "self.version",
-    "diamante/api-bundle": "self.version",
-    "diamante/front-bundle": "self.version",
-    "diamante/embeddedform-bundle": "self.version",
-    "diamante/email-processing-bundle": "self.version"
+    "oro/crm": "1.9.*",
+    "diamante/desk-bundle": "1.0.1",
+    "diamante/user-bundle": "1.0.1",
+    "diamante/api-bundle": "1.0.1",
+    "diamante/front-bundle": "1.0.1",
+    "diamante/embeddedform-bundle": "1.0.1",
+    "diamante/email-processing-bundle": "1.0.1"
   },
   "minimum-stability": "dev",
   "prefer-stable": true,
